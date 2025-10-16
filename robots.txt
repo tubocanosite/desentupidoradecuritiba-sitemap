@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.desentupidoradecuritiba.com.br/sitemap.xml
